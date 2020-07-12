@@ -4,9 +4,10 @@ In this project, I was trying to study how campanies changed their terms and con
 Specifically, I wanted to study how companies responded to COPRA that was implemented earlier this year. 
 Essentially, consumers now have the right to access their data ala (almost) GDPR-style.
 
-Some companies I studied:
+Some companies' T&C I studied:
 1) Facebook (2015, Pre-Apr 2018, After-Apr 2018, After-Jul 2019 -- each time their terms are revised). I'm especially curious how Facebook changed their term after the Cambridge-Analytica scandal.
-2) Patreon
+2) Patreon (2020)
+3) Robinhood (2020)
 
 
 I experimented with a couple different summarizing models (both extractive & abstractive) to summarize legal documents. From that summary, I then rank the importance of each sentence using pagerank.
