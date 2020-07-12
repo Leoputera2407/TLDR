@@ -88,14 +88,14 @@ limits input to only 1024 tokens, which in my point defeats the purpose of docum
 1) Summarizer.ipynb: Main notebook and analysis
 2) Alt_summarizer.ipynb: Notebook to test out BART and T5
 3) pegasus (cloned from https://github.com/google-research/pegasus): only pushed own notebook, fine-tune dataset and fine-tune data prep code. Model too big...
-    |__ all_v1.json: legal summarization (in plain english) data set
-    |__ prep_fineT_data.py: python file to create TFRecord for fine tuning tasks
-    |__ summarize.ipynb: notebook to 
+    *  all_v1.json: legal summarization (in plain english) data set
+    *  prep_fineT_data.py: python file to create TFRecord for fine tuning tasks
+    *  summarize.ipynb: notebook to 
 4) etc: legal text to summarize
 
 
 ## References
-
+```
 @misc{zhang2019pegasus,
     title={PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization},
     author={Jingqing Zhang and Yao Zhao and Mohammad Saleh and Peter J. Liu},
@@ -117,6 +117,7 @@ limits input to only 1024 tokens, which in my point defeats the purpose of docum
     url = "https://www.aclweb.org/anthology/W19-2201",
     pages = "1--11",
 }
+```
 
 
 
