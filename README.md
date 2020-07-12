@@ -9,8 +9,8 @@ Some companies I studied:
 2) Patreon
 
 
-I experimented with different summarizing models (both extractive & abstractive) to summarize legal documents. From that summary, I then rank the importance of each sentence using pagerank.
-Some models I tried in this project:
+I experimented with a couple different summarizing models (both extractive & abstractive) to summarize legal documents. From that summary, I then rank the importance of each sentence using pagerank.
+Models I've tried in this project:
 * Bart & T5 from Hugging Face
 * Bert from Bert-distill-summarizer library
 * Pegasus (the new SOTA) from Google [Fine-tuned on a small legal summarization data set]
