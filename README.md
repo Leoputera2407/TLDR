@@ -94,6 +94,8 @@ limits input to only 1024 tokens, which in my point defeats the purpose of docum
 4) etc: legal text to summarize
 
 
+## References
+
 @misc{zhang2019pegasus,
     title={PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization},
     author={Jingqing Zhang and Yao Zhao and Mohammad Saleh and Peter J. Liu},
