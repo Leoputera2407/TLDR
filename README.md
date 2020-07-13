@@ -23,7 +23,7 @@ So, Bert seems to be the way to go!
 
 I've also built a knowledge graph, using Spacy to extract the triples and use networkX to draw the knowledge graph. 
 
-For now, in this project,  we can eye-ball the important sentences extracted and see how the wordings about data privacy changed over the years. The two companies studied did overall become more stringent in regards to data privacy. Patreon, in particular, is taking a very pro-active approach, making sure their terms and conditions are in a digestible format even way before CCPA. Facebook, on the other hand, needs some improvements. Last they update their terms and condition was in Jul 2019. Given that CCPA was implemented Jan this year, we're not sure how CCPA-ready Facebook is.
+For now, in this project,  we can eye-ball the important sentences extracted and see how the wordings about data privacy changed over the years. The three companies studied did overall become more stringent in regards to data privacy. Patreon, in particular, is taking a very pro-active approach, making sure their terms and conditions are in a digestible format even way before CCPA. Facebook, on the other hand, needs some improvements. Last they update their terms and condition was in Jul 2019. Given that CCPA was implemented Jan this year, we're not sure how CCPA-ready Facebook is.
 
 Another interesting thing, although Facebook still leaves much to be desired, Facebook did noticably become more stringent about data privacy after the Cambridge Analytica Scandal in 2018. This is definitely most noticable in the knowledge graph drawn for pre-apr 2018 vs after-apr 2018.
 
