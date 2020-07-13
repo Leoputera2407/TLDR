@@ -3,7 +3,7 @@
 In this project, I was trying to study how campanies changed their terms and conditions as the years progressed.
 Specifically, I wanted to study how companies responded to CCPA that was implemented earlier this year. 
 Essentially, consumers now have the right to access their data ala (almost) GDPR-style.
-Also, prepared they will be in lieu of a bill (COPRA) that is essentially an country-wide extension of CCPA.
+Also, prepared they will be in for COPRA -- a bill senate is still debating-- that will essentially be an country-wide extension of CCPA.
 
 Some companies' T&C I studied:
 1) Facebook (2015, Pre-Apr 2018, After-Apr 2018, After-Jul 2019 -- each time their terms are revised). I'm especially curious how Facebook changed their term after the Cambridge-Analytica scandal.
